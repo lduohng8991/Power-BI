@@ -1,0 +1,3 @@
+[submodule "CoffeeShop-Sales"]
+	path = CoffeeShop-Sales
+	url = https://github.com/lduohng8991/CoffeeShop-Sales.git
