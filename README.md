@@ -4,8 +4,9 @@ This Power BI dashboard visualizes Coffee sales trends, customer's behaviors, an
 It was created as a practice project based on a YouTube tutorial.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview] 
+
 For more well-visually approach, you should download the files
+
 'Learning&Practice_CoffeeShopSales.pbix'
 'Learning&Practice_CoffeeShopSales.pptx'
 
